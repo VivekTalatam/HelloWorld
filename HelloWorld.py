@@ -1,6 +1,6 @@
 __author__ = "Zephyr"
 
-print("Hello World! This is a program by Zephyr for Anders.\n")
+print("\nHello World! This is a program by Zephyr for Anders.")
 
 name = input("\nPlease enter your name: ")
 
